@@ -1,0 +1,56 @@
+%FDF-1.2
+%цдья
+1 0 obj
+<<
+/FDF 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/ID [<E7F13067FC0F074785349125C3C9EA48> <5F572590798EB64DB78660D6BB6661B9>]
+/Fields [3 0 R 4 0 R 5 0 R 6 0 R 7 0 R]
+>>
+endobj
+3 0 obj
+<<
+/T (text_field)
+>>
+endobj
+4 0 obj
+<<
+/T (text_field_multi)
+>>
+endobj
+5 0 obj
+<<
+/T (check_box)
+>>
+endobj
+6 0 obj
+<<
+/T (radio)
+>>
+endobj
+7 0 obj
+<<
+/T (image)
+>>
+endobj
+xref
+0 8
+0000000000 65535 f
+0000000015 00000 n
+0000000047 00000 n
+0000000184 00000 n
+0000000221 00000 n
+0000000264 00000 n
+0000000300 00000 n
+0000000332 00000 n
+trailer
+<<
+/Root 1 0 R
+/Size 8
+>>
+startxref
+364
+%%EOF

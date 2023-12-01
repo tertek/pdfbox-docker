@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+<ids original="E7F13067FC0F074785349125C3C9EA48" modified="5F572590798EB64DB78660D6BB6661B9" />
+<fields>
+<field name="text_field">
+</field>
+<field name="text_field_multi">
+</field>
+<field name="check_box">
+</field>
+<field name="radio">
+</field>
+<field name="image">
+</field>
+</fields>
+</xfdf>

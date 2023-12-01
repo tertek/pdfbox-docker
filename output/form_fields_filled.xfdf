@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+<ids original="E7F13067FC0F074785349125C3C9EA48" modified="9664545E99C3924BB836D479984D92F4" />
+<fields>
+<field name="text_field">
+<value>input text</value>
+</field>
+<field name="text_field_multi">
+<value>inputtextmultiline</value>
+</field>
+<field name="check_box">
+<value>Yes</value>
+</field>
+<field name="radio">
+<value>choice2</value>
+</field>
+<field name="image">
+</field>
+</fields>
+</xfdf>
